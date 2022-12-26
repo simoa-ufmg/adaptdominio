@@ -1,6 +1,7 @@
 # Adaptação de domínio
 Códigos e experimentos para adaptação de domínio.
 Para o desenvolvimento do estudo foi utilizada a linguagem de programação, versão Python 3.6, no ambiente de desenvolvimento Google Colaboratory.
+#
 A falta de grande volude de dados rotulados dos reservatórios no Brasil e a disponibilidade de dados rotulados de outros países justifica o uso de adaptação de domínio. Neste caso, o objetivo foi classificar os valores de turbidez e clorofila com diferentes limiares. Por exemplo, para turbidez foram usados 7, 14 e 25 NTUs como valores limítrofes para as classes 1 e 0.
 Apenas os últimos experimentos, com resultados promissores foram incluídos nos subdiretórios. Dentro dos arquivos '.ipynb' situa-se os códigos, a metodologia dos experimentos bem como os resultados alcançados.
 # Bibliotecas necessárias
